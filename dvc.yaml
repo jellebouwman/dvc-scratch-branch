@@ -1,0 +1,4 @@
+artifacts:
+  new-model:
+    path: some-path-that-does-not-exist
+    type: model
